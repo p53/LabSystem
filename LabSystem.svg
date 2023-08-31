@@ -1,0 +1,1122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="427cm" height="268cm" viewBox="-8759 -11591 8525 5359" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="-8738.16" y="-10422.6" width="1864.57" height="2378.28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 40; stroke: #000000" x="-8738.16" y="-10422.6" width="1864.57" height="2378.28"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-6780.32" y="-10282.9" width="889.487" height="2651.81"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 40; stroke: #000000" x="-6780.32" y="-10282.9" width="889.487" height="2651.81"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-5841.66" y="-9286.24" width="667.371" height="1465.6"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 40; stroke: #000000" x="-5841.66" y="-9286.24" width="667.371" height="1465.6"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-5110.36" y="-11096.1" width="4856.37" height="4006.21"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 40; stroke: #000000" x="-5110.36" y="-11096.1" width="4856.37" height="4006.21"/>
+  </g>
+  <g>
+    <rect style="fill: #e6e6fa" x="-4042.84" y="-10918.4" width="672" height="3718"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 8; stroke: #000000" x="-4042.84" y="-10918.4" width="672" height="3718"/>
+    <rect style="fill: #e6e6fa" x="-4042.84" y="-10954.4" width="88.7" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 8; stroke: #000000" x="-4042.84" y="-10954.4" width="88.7" height="36"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-4040.84" y="-10940.4">&lt;&lt;Factory&gt;&gt;</text>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-4040.84" y="-10924.4"/>
+  </g>
+  <g>
+    <rect style="fill: #ffa500" x="-4708.32" y="-11588.1" width="298.75" height="88"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #000000" x="-4708.32" y="-11588.1" width="298.75" height="88"/>
+    <text font-size="32" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="-4558.94" y="-11554.1">&lt;&lt;Interface&gt;&gt;</text>
+    <text font-size="32" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="-4558.94" y="-11514.1">Singleton</text>
+    <rect style="fill: #ffa500" x="-4708.32" y="-11500.1" width="298.75" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #000000" x="-4708.32" y="-11500.1" width="298.75" height="8"/>
+    <rect style="fill: #ffa500" x="-4708.32" y="-11492.1" width="298.75" height="44"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 4; stroke: #000000" x="-4708.32" y="-11492.1" width="298.75" height="44"/>
+    <text font-size="32" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-4704.32" y="-11460.1">+GetSingleton()</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-3155.58" y="-10195.1" width="271.8" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-3155.58" y="-10195.1" width="271.8" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="-3019.68" y="-10176.1">MysqlStorage</text>
+    <rect style="fill: #ffffff" x="-3155.58" y="-10167.1" width="271.8" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-3155.58" y="-10167.1" width="271.8" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-3152.58" y="-10153.1">#$connection: resource</text>
+    <rect style="fill: #ffffff" x="-3155.58" y="-10147.1" width="271.8" height="52"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-3155.58" y="-10147.1" width="271.8" height="52"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-3152.58" y="-10133.1"> Connect(out $connection:resource)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-3152.58" y="-10117.1">+Execute()</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-3152.58" y="-10101.1">+GetAnalyzed(out $this-&gt;analyzed)</text>
+  </g>
+  <g>
+    <rect style="fill: #ffa500" x="-3177.5" y="-9782.78" width="299.5" height="48"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-3177.5" y="-9782.78" width="299.5" height="48"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="-3027.75" y="-9766.78">&lt;&lt;interface&gt;&gt;</text>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:700" x="-3027.75" y="-9747.78">QueryInterface</text>
+    <rect style="fill: #ffa500" x="-3177.5" y="-9734.78" width="299.5" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-3177.5" y="-9734.78" width="299.5" height="8"/>
+    <rect style="fill: #ffa500" x="-3177.5" y="-9726.78" width="299.5" height="44"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-3177.5" y="-9726.78" width="299.5" height="44"/>
+    <text font-size="16" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:700" x="-3174.5" y="-9709.78">+Analyze(in $conditions:array)</text>
+    <text font-size="16" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:700" x="-3174.5" y="-9689.78">+Build()</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-3262.48" y="-9370.88" width="472" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-3262.48" y="-9370.88" width="472" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="-3026.48" y="-9351.88">MysqlQuery</text>
+    <rect style="fill: #ffffff" x="-3262.48" y="-9342.88" width="472" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-3262.48" y="-9342.88" width="472" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-3259.48" y="-9328.88">-$options: array</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-3259.48" y="-9312.88">-$query_result: QueryResult</text>
+    <rect style="fill: #ffffff" x="-3262.48" y="-9306.88" width="472" height="180"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-3262.48" y="-9306.88" width="472" height="180"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-3259.48" y="-9292.88">+Analyze(in $conditions:array,out $query_result:QueryResult)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-3259.48" y="-9276.88">+Build(out query:string)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-3259.48" y="-9260.88">+GetOpt(in $key:string,out $this-&gt;options[$key]:array)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-3259.48" y="-9244.88">+SetOpt(in $key:string,in $value:mixed)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-3259.48" y="-9228.88">-Tables(in $tables:array,in $join:string,</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-3259.48" y="-9212.88">        in $context:string,in $restrictions:string)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-3259.48" y="-9196.88">-Columns(in $columns:array)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-3259.48" y="-9180.88">-Restrictions(in $restrictions:array,in $join:string)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-3259.48" y="-9164.88">-Order(in $order:string)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-3259.48" y="-9148.88">-Limit(in $limit:string)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-3259.48" y="-9132.88">-Join(in $join:string,out $join_string:string)</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="-3027.75,-9663.54 -3027.75,-9518.83 -3026.48,-9518.83 -3026.48,-9371.89 "/>
+    <polygon style="fill: #ffffff" points="-3019.75,-9663.54 -3027.75,-9679.54 -3035.75,-9663.54 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-3019.75,-9663.54 -3027.75,-9679.54 -3035.75,-9663.54 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="-3423.97,-9241.4 -3340.24,-9241.4 -3340.24,-9248.88 -3270.11,-9248.88 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-3282.76,-9243.88 -3266.76,-9248.88 -3282.76,-9253.88 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-2123.7" y="-9340.02" width="333.4" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-2123.7" y="-9340.02" width="333.4" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="-1957" y="-9321.02">QueryResult</text>
+    <rect style="fill: #ffffff" x="-2123.7" y="-9312.02" width="333.4" height="52"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-2123.7" y="-9312.02" width="333.4" height="52"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-2120.7" y="-9298.02">-$options: array</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-2120.7" y="-9282.02">-$blocks: array</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-2120.7" y="-9266.02">-$query: string</text>
+    <rect style="fill: #ffffff" x="-2123.7" y="-9260.02" width="333.4" height="100"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-2123.7" y="-9260.02" width="333.4" height="100"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-2120.7" y="-9246.02">+AddBlock(in $key:string,in $value:string)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-2120.7" y="-9230.02">+AddOptionResult(in $opt:array)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-2120.7" y="-9214.02">+AddQuery(in $q:string)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-2120.7" y="-9198.02">+GetOptions(out $this-&gt;options:array)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-2120.7" y="-9182.02">+GetQuery(out $this-&gt;query:string)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-2120.7" y="-9166.02">+GetBlock(out $this-&gt;blocks:array)</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="-2789.47,-9248.88 -2461.09,-9248.88 -2461.09,-9250.02 -2131.41,-9250.02 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-2144.06,-9245.02 -2128.06,-9250.02 -2144.06,-9255.02 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-5002" y="-10462" width="371.9" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-5002" y="-10462" width="371.9" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="-4816.05" y="-10443">StorageConfiguration</text>
+    <rect style="fill: #ffffff" x="-5002" y="-10434" width="371.9" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-5002" y="-10434" width="371.9" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-4999" y="-10420">#$conf: array</text>
+    <rect style="fill: #ffffff" x="-5002" y="-10414" width="371.9" height="68"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-5002" y="-10414" width="371.9" height="68"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-4999" y="-10400">+SetConf(in $inServer:string,in $inUser:string,</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-4999" y="-10384">         in $inSource:string,in $inType:string,</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-4999" y="-10368">         in $inPasswd:string)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-4999" y="-10352">+GetConf(in $key:string,out $conf[$key]:string)</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-3984.17,-10388.3 -4301.05,-10388.3 -4301.05,-10404 -4629.09,-10404 "/>
+    <polygon style="fill: #ffffff" points="-3959,-10388.3 -3973,-10383.5 -3987,-10388.3 -3973,-10393.1 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-3959,-10388.3 -3973,-10383.5 -3987,-10388.3 -3973,-10393.1 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-4299.05" y="-10400.2"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="-3991" y="-10392.3"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-4625.09" y="-10408"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-2757.8" y="-9211.04" width="241" height="70"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-2757.8" y="-9211.04" width="241" height="70"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="-2637.3" y="-9192.04">XMLQuery</text>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:normal" x="-2637.3" y="-9176.54">{documentation = </text>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:normal" x="-2637.3" y="-9162.54">example of other</text>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:normal" x="-2637.3" y="-9148.54">possible classes}</text>
+    <rect style="fill: #ffffff" x="-2757.8" y="-9141.04" width="241" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-2757.8" y="-9141.04" width="241" height="8"/>
+    <rect style="fill: #ffffff" x="-2757.8" y="-9133.04" width="241" height="52"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-2757.8" y="-9133.04" width="241" height="52"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-2754.8" y="-9119.04">+Analyze(in $conditions:array)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-2754.8" y="-9103.04">+Build()</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-2754.8" y="-9087.04">+etc. ...()</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-2437.5" y="-9044.22" width="241" height="70"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-2437.5" y="-9044.22" width="241" height="70"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="-2317" y="-9025.22">DB2Query</text>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:normal" x="-2317" y="-9009.72">{documentation = </text>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:normal" x="-2317" y="-8995.72">example of other</text>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:normal" x="-2317" y="-8981.72">possible classes}</text>
+    <rect style="fill: #ffffff" x="-2437.5" y="-8974.22" width="241" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-2437.5" y="-8974.22" width="241" height="8"/>
+    <rect style="fill: #ffffff" x="-2437.5" y="-8966.22" width="241" height="52"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-2437.5" y="-8966.22" width="241" height="52"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-2434.5" y="-8952.22">+Analyze(in $conditions:array)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-2434.5" y="-8936.22">+Build()</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-2434.5" y="-8920.22">+etc. ...()</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="-3423.99,-9241.4 -3338.92,-9241.4 -3338.92,-9081.04 -2764.51,-9081.04 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-2777.15,-9076.04 -2761.15,-9081.04 -2777.15,-9086.04 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="-3423.99,-9241.4 -3338.92,-9241.4 -3338.92,-8914.22 -2444.21,-8914.22 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-2456.85,-8909.22 -2440.85,-8914.22 -2456.85,-8919.22 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="-2516.8,-9081.04 -1957,-9081.04 -1957,-9153.31 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-1952,-9140.67 -1957,-9156.67 -1962,-9140.67 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="-2196.5,-8914.22 -1957,-8914.22 -1957,-9153.31 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-1952,-9140.67 -1957,-9156.67 -1962,-9140.67 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="-3027.75,-9664.54 -3027.75,-9438.91 -2637.3,-9438.91 -2637.3,-9211.04 "/>
+    <polygon style="fill: #ffffff" points="-3019.75,-9664.54 -3027.75,-9680.54 -3035.75,-9664.54 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-3019.75,-9664.54 -3027.75,-9680.54 -3035.75,-9664.54 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="-3027.74,-9664.54 -3027.74,-9522.22 -2317,-9522.22 -2317,-9044.22 "/>
+    <polygon style="fill: #ffffff" points="-3019.74,-9664.54 -3027.74,-9680.54 -3035.74,-9664.54 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-3019.74,-9664.54 -3027.74,-9680.54 -3035.74,-9664.54 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-2234" y="-7420" width="687.6" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-2234" y="-7420" width="687.6" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="-1890.2" y="-7401">MysqlTransaction</text>
+    <rect style="fill: #ffffff" x="-2234" y="-7392" width="687.6" height="68"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-2234" y="-7392" width="687.6" height="68"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-2231" y="-7378">-$conf: Configuration</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-2231" y="-7362">-$storage: MysqlStorage</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-2231" y="-7346">-$queryResultCollection: QueryResultCollection</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-2231" y="-7330">-$rollback: boolean</text>
+    <rect style="fill: #ffffff" x="-2234" y="-7324" width="687.6" height="68"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-2234" y="-7324" width="687.6" height="68"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-2231" y="-7310">+BuildTransaction(in $conditions:array,out $queryResultCollection:QueryResultCollection)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-2231" y="-7294">+ExecuteTransaction(in $queryResultCollection:QueryResultCollection,</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-2231" y="-7278">                    out $resultArray:array)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-2231" y="-7262">+Transaction(in $conditions:array,out $resultArray:array)</text>
+  </g>
+  <g>
+    <rect style="fill: #00ff00" x="-3856" y="-8284" width="456.6" height="44"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-3856" y="-8284" width="456.6" height="44"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="-3627.7" y="-8268">&lt;&lt;Factory&gt;&gt;</text>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="-3627.7" y="-8249">CollectionFactory</text>
+    <rect style="fill: #00ff00" x="-3856" y="-8240" width="456.6" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-3856" y="-8240" width="456.6" height="8"/>
+    <rect style="fill: #00ff00" x="-3856" y="-8232" width="456.6" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-3856" y="-8232" width="456.6" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-3853" y="-8218">+Production(in $object:object,out $collection:*Collection)</text>
+  </g>
+  <g>
+    <rect style="fill: #ffa500" x="-3247.38" y="-6576.88" width="410.4" height="44"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-3247.38" y="-6576.88" width="410.4" height="44"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="-3042.18" y="-6560.88">&lt;&lt;interface&gt;&gt;</text>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:700" x="-3042.18" y="-6541.88">CollectionInterface</text>
+    <rect style="fill: #ffa500" x="-3247.38" y="-6532.88" width="410.4" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-3247.38" y="-6532.88" width="410.4" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-3244.38" y="-6518.88">#$warehouse: array</text>
+    <rect style="fill: #ffa500" x="-3247.38" y="-6512.88" width="410.4" height="116"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-3247.38" y="-6512.88" width="410.4" height="116"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-3244.38" y="-6498.88">+AddCollectionItem(in $key:string,in $item:mixed,</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-3244.38" y="-6482.88">                   out $item:mixed)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-3244.38" y="-6466.88">+DeleteCollectionItem(in $key:string)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-3244.38" y="-6450.88">+UpdateCollectionItem(in $key:string,in $item:mixed,</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-3244.38" y="-6434.88">                      out $updatedItem:mixed)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-3244.38" y="-6418.88">+GetCollectionItem(in $key:string,out $item:mixed)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-3244.38" y="-6402.88">+GetCollection(out $warehouse:array)</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-3135" y="-8317" width="186.3" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-3135" y="-8317" width="186.3" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="-3041.85" y="-8298">ConditionCollection</text>
+    <rect style="fill: #ffffff" x="-3135" y="-8289" width="186.3" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-3135" y="-8289" width="186.3" height="8"/>
+    <rect style="fill: #ffffff" x="-3135" y="-8281" width="186.3" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-3135" y="-8281" width="186.3" height="8"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-2749" y="-8244" width="211.05" height="44"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-2749" y="-8244" width="211.05" height="44"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="-2643.47" y="-8228">&lt;&lt;singleton&gt;&gt;</text>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="-2643.47" y="-8209">QueryResultCollection</text>
+    <rect style="fill: #ffffff" x="-2749" y="-8200" width="211.05" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-2749" y="-8200" width="211.05" height="8"/>
+    <rect style="fill: #ffffff" x="-2749" y="-8192" width="211.05" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-2749" y="-8192" width="211.05" height="8"/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-3041.86,-8342.17 -3041.86,-8496 -4844.88,-8496 -4844.88,-8392 "/>
+    <polygon style="fill: #ffffff" points="-3041.86,-8317 -3046.66,-8331 -3041.86,-8345 -3037.06,-8331 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-3041.86,-8317 -3046.66,-8331 -3041.86,-8345 -3037.06,-8331 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="-3943.37" y="-8500"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-3030.86" y="-8321"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-4840.88" y="-8396"/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-2512.77,-8222 -1800,-8222 -1800,-9160.02 -1957,-9160.02 "/>
+    <polygon style="fill: #ffffff" points="-2537.94,-8222 -2523.94,-8226.8 -2509.94,-8222 -2523.94,-8217.2 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-2537.94,-8222 -2523.94,-8226.8 -2509.94,-8222 -2523.94,-8217.2 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-1798" y="-8695.01"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-2505.94" y="-8226"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-1953" y="-9164.02"/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="-3399.4,-8262 -3271.7,-8262 -3271.7,-8295 -3142.71,-8295 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-3155.36,-8290 -3139.36,-8295 -3155.36,-8300 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="-3399.4,-8222 -3398.4,-8222 -2758,-8222 -2755.71,-8222 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-2768.35,-8217 -2752.35,-8222 -2768.35,-8227 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="-3042.07,-6993.34 -3042.07,-7631.55 -3041.85,-7631.55 -3041.85,-8271.99 "/>
+    <polygon style="fill: #ffffff" points="-3050.07,-6993.34 -3042.07,-6977.34 -3034.07,-6993.34 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-3050.07,-6993.34 -3042.07,-6977.34 -3034.07,-6993.34 "/>
+  </g>
+  <g>
+    <rect style="fill: #00ff00" x="-3843.08" y="-9277.4" width="418.1" height="44"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-3843.08" y="-9277.4" width="418.1" height="44"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="-3634.03" y="-9261.4">&lt;&lt;Factory&gt;&gt;</text>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="-3634.03" y="-9242.4">QueryFactory</text>
+    <rect style="fill: #00ff00" x="-3843.08" y="-9233.4" width="418.1" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-3843.08" y="-9233.4" width="418.1" height="8"/>
+    <rect style="fill: #00ff00" x="-3843.08" y="-9225.4" width="418.1" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-3843.08" y="-9225.4" width="418.1" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-3840.08" y="-9211.4">+Production(in $type:string,out $query_object:*Query)</text>
+  </g>
+  <g>
+    <rect style="fill: #00ff00" x="-3980.66" y="-7436.5" width="587.5" height="44"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-3980.66" y="-7436.5" width="587.5" height="44"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="-3686.91" y="-7420.5">&lt;&lt;Factory&gt;&gt;</text>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="-3686.91" y="-7401.5">TransactionFactory</text>
+    <rect style="fill: #00ff00" x="-3980.66" y="-7392.5" width="587.5" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-3980.66" y="-7392.5" width="587.5" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-3977.66" y="-7378.5">-$transactionType: string</text>
+    <rect style="fill: #00ff00" x="-3980.66" y="-7372.5" width="587.5" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-3980.66" y="-7372.5" width="587.5" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-3977.66" y="-7358.5">+Production(in $conf:Configuration,out $this-&gt;transactionType:*Transaction)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-3977.66" y="-7342.5">+GetTransaction(out $this-&gt;transactionType:*Transaction)</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="-2252.24,-7406 -2821.58,-7406 -2821.58,-7382.5 -3393.16,-7382.5 "/>
+    <polygon style="fill: #ffffff" points="-2252.24,-7398 -2236.24,-7406 -2252.24,-7414 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-2252.24,-7398 -2236.24,-7406 -2252.24,-7414 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-2252.31,-7423 -2389.55,-7423 -2389.55,-8184 -2537.95,-8184 "/>
+    <polygon style="fill: #ffffff" points="-2227.14,-7423 -2241.14,-7418.2 -2255.14,-7423 -2241.14,-7427.8 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-2227.14,-7423 -2241.14,-7418.2 -2255.14,-7423 -2241.14,-7427.8 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-2387.55" y="-7807.5"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="-2259.14" y="-7427"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-2533.95" y="-8188"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-5061.64" y="-8392" width="433.5" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-5061.64" y="-8392" width="433.5" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="-4844.89" y="-8373">Condition</text>
+    <rect style="fill: #ffffff" x="-5061.64" y="-8364" width="433.5" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-5061.64" y="-8364" width="433.5" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-5058.64" y="-8350">-$conditions: array</text>
+    <rect style="fill: #ffffff" x="-5061.64" y="-8344" width="433.5" height="180"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-5061.64" y="-8344" width="433.5" height="180"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-5058.64" y="-8330">+AddCondition(in $key:string,in $key1:string,</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-5058.64" y="-8314">              in $value:mixed,out $this:Condition)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-5058.64" y="-8298">+DeleteCondition(in $key:string,in $key1:string,</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-5058.64" y="-8282">                 out $this:Condition)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-5058.64" y="-8266">+UpdateCondition(in $key:string,in $key1:string,</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-5058.64" y="-8250">                 in $value:mixed,out $this:Condition)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-5058.64" y="-8234">+GetCondition(in $key:string,in $key1:string,</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-5058.64" y="-8218">              )</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-5058.64" y="-8202">+GetConditions(out $this-&gt;conditions:array)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-5058.64" y="-8186">+SetConditions(in $conditions:array,in $this:Condition)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-5058.64" y="-8170">+ExtendCondition(in $key:string,in $key1:string)</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="-3155.58,-10137.1 -3286.28,-10137.1 -3286.28,-9277.4 -3418.27,-9277.4 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-3405.63,-9282.4 -3421.63,-9277.4 -3405.63,-9272.4 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="-3959,-10314.3 -3959,-9357.17 -4844.89,-9357.17 -4844.89,-8398.71 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-4849.89,-8411.35 -4844.89,-8395.35 -4839.89,-8411.35 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="-3433.1,-10314.3 -3433.1,-10284 -3155.58,-10284 -3155.58,-10201.8 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-3160.58,-10214.5 -3155.58,-10198.5 -3150.58,-10214.5 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="-2818.74,-6502.88 -2643.47,-6502.88 -2643.47,-8184 "/>
+    <polygon style="fill: #ffffff" points="-2818.74,-6510.88 -2834.74,-6502.88 -2818.74,-6494.88 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-2818.74,-6510.88 -2834.74,-6502.88 -2818.74,-6494.88 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="-1890.2,-7420 -1890.2,-7842.5 -2948.7,-7842.5 -2948.7,-8266.29 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-2943.7,-8253.65 -2948.7,-8269.65 -2953.7,-8253.65 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-3263.06" y="-10515.3" width="487.4" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-3263.06" y="-10515.3" width="487.4" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:700" x="-3019.36" y="-10496.3">DataStorage</text>
+    <rect style="fill: #ffffff" x="-3263.06" y="-10487.3" width="487.4" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-3263.06" y="-10487.3" width="487.4" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-3260.06" y="-10473.3">#$analyzed: array</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-3260.06" y="-10457.3">#$dataConfig: array</text>
+    <rect style="fill: #ffffff" x="-3263.06" y="-10451.3" width="487.4" height="52"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-3263.06" y="-10451.3" width="487.4" height="52"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-3260.06" y="-10437.3">+Connect()</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-3260.06" y="-10421.3">+GetConf(in $key:string,out $configurable:string)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-3260.06" y="-10405.3">+BuildDataQuery(in $conditions:array,out $result_query:string)</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-3019.36,-10381.1 -3019.36,-10289.2 -3019.68,-10289.2 -3019.68,-10195.1 "/>
+    <polygon style="fill: #ffffff" points="-3011.36,-10381.1 -3019.36,-10397.1 -3027.36,-10381.1 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-3011.36,-10381.1 -3019.36,-10397.1 -3027.36,-10381.1 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="-3696.05,-10296.1 -3696.05,-9788.37 -3634.03,-9788.37 -3634.03,-9278.41 "/>
+    <polygon style="fill: #ffffff" points="-3688.05,-10296.1 -3696.05,-10312.1 -3704.05,-10296.1 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-3688.05,-10296.1 -3696.05,-10312.1 -3704.05,-10296.1 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="-3808.72,-11321.3 -3808.72,-9803.75 -3856,-9803.75 -3856,-8284 "/>
+    <polygon style="fill: #ffffff" points="-3800.72,-11321.3 -3808.72,-11337.3 -3816.72,-11321.3 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-3800.72,-11321.3 -3808.72,-11337.3 -3816.72,-11321.3 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="-3695.92,-11320.3 -3695.92,-9897.14 -3522.64,-9897.14 -3522.64,-7386.04 "/>
+    <polygon style="fill: #ffffff" points="-3687.92,-11320.3 -3695.92,-11336.3 -3703.92,-11320.3 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-3687.92,-11320.3 -3695.92,-11336.3 -3703.92,-11320.3 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-3242.92" y="-6826.66" width="402.7" height="44"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-3242.92" y="-6826.66" width="402.7" height="44"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="-3041.57" y="-6810.66">&lt;&lt;Spl&gt;&gt;</text>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="-3041.57" y="-6791.66">CollectionSpl</text>
+    <rect style="fill: #ffffff" x="-3242.92" y="-6782.66" width="402.7" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-3242.92" y="-6782.66" width="402.7" height="8"/>
+    <rect style="fill: #ffffff" x="-3242.92" y="-6774.66" width="402.7" height="84"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-3242.92" y="-6774.66" width="402.7" height="84"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-3239.92" y="-6760.66">+AddCollectionItem(in $key:string,in $value:mixed,</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-3239.92" y="-6744.66">                   out $this)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-3239.92" y="-6728.66">+DeleteCollectionItem(in $key:string,out $this)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-3239.92" y="-6712.66">+UpdateCollectionItem(in $key:string,out $this)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-3239.92" y="-6696.66">+GetCollectionItem(in $key:string,out $value:mixed)</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-3835.66" y="-6292.3" width="117.5" height="44"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-3835.66" y="-6292.3" width="117.5" height="44"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="-3776.91" y="-6276.3">&lt;&lt;Spl&gt;&gt;</text>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="-3776.91" y="-6257.3">ArrayObject</text>
+    <rect style="fill: #ffffff" x="-3835.66" y="-6248.3" width="117.5" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-3835.66" y="-6248.3" width="117.5" height="8"/>
+    <rect style="fill: #ffffff" x="-3835.66" y="-6240.3" width="117.5" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-3835.66" y="-6240.3" width="117.5" height="8"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-3091.9" y="-6975.1" width="99.65" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-3091.9" y="-6975.1" width="99.65" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="-3042.07" y="-6956.1">Collection</text>
+    <rect style="fill: #ffffff" x="-3091.9" y="-6947.1" width="99.65" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-3091.9" y="-6947.1" width="99.65" height="8"/>
+    <rect style="fill: #ffffff" x="-3091.9" y="-6939.1" width="99.65" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-3091.9" y="-6939.1" width="99.65" height="8"/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-3041.57,-6844.9 -3041.57,-6886.88 -3042.07,-6886.88 -3042.07,-6931.1 "/>
+    <polygon style="fill: #ffffff" points="-3049.57,-6844.9 -3041.57,-6828.9 -3033.57,-6844.9 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-3049.57,-6844.9 -3041.57,-6828.9 -3033.57,-6844.9 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="-3042.18,-6595.12 -3042.18,-6641.77 -3041.57,-6641.77 -3041.57,-6690.66 "/>
+    <polygon style="fill: #ffffff" points="-3050.18,-6595.12 -3042.18,-6579.12 -3034.18,-6595.12 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-3050.18,-6595.12 -3042.18,-6579.12 -3034.18,-6595.12 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-3776.91,-6310.54 -3776.91,-6764.66 -3242.92,-6764.66 "/>
+    <polygon style="fill: #ffffff" points="-3784.91,-6310.54 -3776.91,-6294.54 -3768.91,-6310.54 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-3784.91,-6310.54 -3776.91,-6294.54 -3768.91,-6310.54 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-5771.3" y="-8606.46" width="518.2" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-5771.3" y="-8606.46" width="518.2" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="-5512.2" y="-8587.46">MysqlQueryHelper</text>
+    <rect style="fill: #ffffff" x="-5771.3" y="-8578.46" width="518.2" height="180"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-5771.3" y="-8578.46" width="518.2" height="180"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-5768.3" y="-8564.46">-conditionObject: Condition</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-5768.3" y="-8548.46">-context: string</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-5768.3" y="-8532.46">-tables: array</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-5768.3" y="-8516.46">-columns: array</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-5768.3" y="-8500.46">-setConditions: array</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-5768.3" y="-8484.46">-onCondition: string</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-5768.3" y="-8468.46">-whereCondition: string</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-5768.3" y="-8452.46">-limit: array</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-5768.3" y="-8436.46">-order: array</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-5768.3" y="-8420.46">-join: array</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-5768.3" y="-8404.46">-constructed: int</text>
+    <rect style="fill: #ffffff" x="-5771.3" y="-8398.46" width="518.2" height="452"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-5771.3" y="-8398.46" width="518.2" height="452"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-5768.3" y="-8384.46">+GetCondition(out $this-&gt;conditionObject:Condition)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-5768.3" y="-8368.46">+SetContext(in $context:string,out $this)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-5768.3" y="-8352.46">+AddTable(in $table:string,out $this)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-5768.3" y="-8336.46">+AddColumn(in $column:string,out $this)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-5768.3" y="-8320.46">+AddColumnAlias(in $column:string,in $columnAlias:string,</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-5768.3" y="-8304.46">                out $this)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-5768.3" y="-8288.46">+AddColumns(in $columnArray:array,out $this)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-5768.3" y="-8272.46">+AddSetCondition(in $column:string,in $value:string,</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-5768.3" y="-8256.46">                 out $this)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-5768.3" y="-8240.46">+SetOnCondition(in $onCondition:string,out $this)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-5768.3" y="-8224.46">+GetOnCondition(out $this-&gt;onCondition)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-5768.3" y="-8208.46">+SetWhereCondition(in $whereCondition:string,</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-5768.3" y="-8192.46">                   out $this)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-5768.3" y="-8176.46">+GetWhereCondition(out $this-&gt;whereCondition)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-5768.3" y="-8160.46">+CreateWhereCondition(in $column:string,</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-5768.3" y="-8144.46">                      in $operator:string,</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-5768.3" y="-8128.46">                      in $value:string,out $whereCondition:string)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-5768.3" y="-8112.46">+ExtendCondition(in $extendedCondition:string,</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-5768.3" y="-8096.46">                 in $operator:string,in $condition:string,</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-5768.3" y="-8080.46">                 out $resultCondition:string)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-5768.3" y="-8064.46">+CreateOnCondition(in $column:string,in $operator:string,</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-5768.3" y="-8048.46">                   in $value:string)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-5768.3" y="-8032.46">+GroupConditions(in $whereCondition:string,</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-5768.3" y="-8016.46">                 out $group:string)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-5768.3" y="-8000.46">+SetLimit(in $from:int,in $number:int)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-5768.3" y="-7984.46">+SetOrderColumn(in $orderColumn:string,out $this)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-5768.3" y="-7968.46">+SetOrder(in $order:string,out $this)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-5768.3" y="-7952.46">+AddJoin(in $join:string,out $this)</text>
+  </g>
+  <g>
+    <rect style="fill: #ffa500" x="-5666.92" y="-8979" width="310.3" height="44"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-5666.92" y="-8979" width="310.3" height="44"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="-5511.77" y="-8963">&lt;&lt;interface&gt;&gt;</text>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:700" x="-5511.77" y="-8944">QueryHelperInterface</text>
+    <rect style="fill: #ffa500" x="-5666.92" y="-8935" width="310.3" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-5666.92" y="-8935" width="310.3" height="8"/>
+    <rect style="fill: #ffa500" x="-5666.92" y="-8927" width="310.3" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-5666.92" y="-8927" width="310.3" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-5663.92" y="-8913">+GetCondition(out $condition:Condition)</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="-5511.77,-8888.76 -5511.77,-8749.23 -5512.2,-8749.23 -5512.2,-8607.47 "/>
+    <polygon style="fill: #ffffff" points="-5503.77,-8888.76 -5511.77,-8904.76 -5519.77,-8888.76 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-5503.77,-8888.76 -5511.77,-8904.76 -5519.77,-8888.76 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="-5253.1,-8292.46 -5225.42,-8292.46 -5225.42,-8287.18 -5068.35,-8287.18 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-5080.99,-8282.18 -5064.99,-8287.18 -5080.99,-8292.18 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffa500" x="-3243.04" y="-10917.3" width="448.9" height="44"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-3243.04" y="-10917.3" width="448.9" height="44"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="-3018.59" y="-10901.3">&lt;&lt;interface&gt;&gt;</text>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="-3018.59" y="-10882.3">StorageInterface</text>
+    <rect style="fill: #ffa500" x="-3243.04" y="-10873.3" width="448.9" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-3243.04" y="-10873.3" width="448.9" height="8"/>
+    <rect style="fill: #ffa500" x="-3243.04" y="-10865.3" width="448.9" height="68"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-3243.04" y="-10865.3" width="448.9" height="68"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-3240.04" y="-10851.3">+Connect()</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-3240.04" y="-10835.3">+BuildDataQuery(in $condition:Condition,</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-3240.04" y="-10819.3">                out $result_query:string)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-3240.04" y="-10803.3">+Execute(in $result_query:string,out $result_array:array)</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="-3018.59,-10779.1 -3018.59,-10648.3 -3019.36,-10648.3 -3019.36,-10515.3 "/>
+    <polygon style="fill: #ffffff" points="-3010.59,-10779.1 -3018.59,-10795.1 -3026.59,-10779.1 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-3010.59,-10779.1 -3018.59,-10795.1 -3026.59,-10779.1 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-6552.98" y="-10083.1" width="425.8" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-6552.98" y="-10083.1" width="425.8" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:700" x="-6340.08" y="-10064.1">OrmObject</text>
+    <rect style="fill: #ffffff" x="-6552.98" y="-10055.1" width="425.8" height="68"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-6552.98" y="-10055.1" width="425.8" height="68"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-6549.98" y="-10041.1">#table: string</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="-6549.98" y1="-10035.5" x2="-6442.18" y2="-10035.5"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-6549.98" y="-10025.1">#map: array</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="-6549.98" y1="-10019.5" x2="-6465.28" y2="-10019.5"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-6549.98" y="-10009.1">#record: array</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-6549.98" y="-9993.1">#relationships: array</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="-6549.98" y1="-9987.5" x2="-6388.28" y2="-9987.5"/>
+    <rect style="fill: #ffffff" x="-6552.98" y="-9987.1" width="425.8" height="116"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-6552.98" y="-9987.1" width="425.8" height="116"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-6549.98" y="-9973.1">+_get(in $property:string): magic</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-6549.98" y="-9957.1">+_set(in $property:string,in $value:mixed): magic</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-6549.98" y="-9941.1">+SetOrmObjectRecord(in $record:array,out $this)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-6549.98" y="-9925.1">+GetOrmObjectRecord(out $this-&gt;record:array)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-6549.98" y="-9909.1">+GetOrmObjectMap(out static::$map)</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="-6549.98" y1="-9907.5" x2="-6288.18" y2="-9907.5"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-6549.98" y="-9893.1">+GetOrmObjectTable(out static::$table)</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="-6549.98" y1="-9891.5" x2="-6257.38" y2="-9891.5"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-6549.98" y="-9877.1">+GetOrmObjectRelationships(out static::$relationships)</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="-6549.98" y1="-9875.5" x2="-6134.18" y2="-9875.5"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-6703.96" y="-9659.76" width="764.6" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-6703.96" y="-9659.76" width="764.6" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="-6321.66" y="-9640.76">OrmCollection</text>
+    <rect style="fill: #ffffff" x="-6703.96" y="-9631.76" width="764.6" height="52"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-6703.96" y="-9631.76" width="764.6" height="52"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-6700.96" y="-9617.76">#$relatedObjectName</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-6700.96" y="-9601.76">#$storage</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-6700.96" y="-9585.76">#$helper</text>
+    <rect style="fill: #ffffff" x="-6703.96" y="-9579.76" width="764.6" height="212"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-6703.96" y="-9579.76" width="764.6" height="212"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-6700.96" y="-9565.76">+MapArrayToObjects(in $resultArray:array,</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-6700.96" y="-9549.76">                   out $this)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-6700.96" y="-9533.76">+MapArrayToRelatedObjects(in $resultArray:array,</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-6700.96" y="-9517.76">                          out ormobjectsrelationshipscollection:OrmObjectsRelationshipsCollection)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-6700.96" y="-9501.76">+GetGeneric(out $this)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-6700.96" y="-9485.76">+GetRelatedGeneric(out ormobjectsrelationshipscollection:OrmObjectsRelationshipsCollection)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-6700.96" y="-9469.76">+GetAll(out $objectCollection:OrmCollection)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-6700.96" y="-9453.76">+GetRelatedSimple(out ormobjectsrelationshipscollection:OrmObjectsRelationshipsCollection)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-6700.96" y="-9437.76">#GetObjectName(out $objectName:string)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-6700.96" y="-9421.76">#AutomaticAlias(in $objectName:string,out $mappedCols:array)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-6700.96" y="-9405.76">#GetOnFieldObjectCollectionValues(in $onFieldObject:string,</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-6700.96" y="-9389.76">                                  out $onFieldObjectCollectionValues:array)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-6700.96" y="-9373.76">#InitializeStorageHelper(out $helper:QueryHelper)</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-2744.52" y="-10132.1" width="448.9" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-2744.52" y="-10132.1" width="448.9" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="-2520.07" y="-10113.1">FileStorage</text>
+    <rect style="fill: #ffffff" x="-2744.52" y="-10104.1" width="448.9" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-2744.52" y="-10104.1" width="448.9" height="8"/>
+    <rect style="fill: #ffffff" x="-2744.52" y="-10096.1" width="448.9" height="132"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-2744.52" y="-10096.1" width="448.9" height="132"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-2741.52" y="-10082.1">+Connect()</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-2741.52" y="-10066.1">+Execute(in $result_query:string,out $result_array:array)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-2741.52" y="-10050.1">+GetAnalyzed(out $this-&gt;analyzed:QueryResult)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-2741.52" y="-10034.1">+SelectLines(in $analyzed:QueryResult,out $return:array)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-2741.52" y="-10018.1">+ReplacePattern(in $analyzed:QueryResult,</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-2741.52" y="-10002.1">                out $return:array)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-2741.52" y="-9986.14">+DeleteLines(in $analyzed:QueryResult,out $return:array)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-2741.52" y="-9970.14">+InsertLine(in $analyzed:QueryResult,out bool)</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-2249.2" y="-10072.8" width="479.7" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-2249.2" y="-10072.8" width="479.7" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="-2009.35" y="-10053.8">CsvStorage</text>
+    <rect style="fill: #ffffff" x="-2249.2" y="-10044.8" width="479.7" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-2249.2" y="-10044.8" width="479.7" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-2246.2" y="-10030.8">#$instance</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="-2246.2" y1="-10025.2" x2="-2169.2" y2="-10025.2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-2246.2" y="-10014.8">#$connection</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="-2246.2" y1="-10009.2" x2="-2153.8" y2="-10009.2"/>
+    <rect style="fill: #ffffff" x="-2249.2" y="-10008.8" width="479.7" height="212"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-2249.2" y="-10008.8" width="479.7" height="212"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-2246.2" y="-9994.76">+Connect(out $self::connection:SplFileObject)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-2246.2" y="-9978.76">+Execute(in $result_query:string)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-2246.2" y="-9962.76">+GetAnalyzed(out $this-&gt;analyzed)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-2246.2" y="-9946.76">+CsvSelect(in $analyzed:QueryResult,out $return:array)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-2246.2" y="-9930.76">+CsvUpdate(in $analyzed:QueryResult,out $return:array)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-2246.2" y="-9914.76">+CsvDelete(in $analyzed:QueryResult)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-2246.2" y="-9898.76">+CsvInsert(in $analyzed:QueryResult)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-2246.2" y="-9882.76">+MapCsvFieldsToPositions(in $allColumns:array,</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-2246.2" y="-9866.76">                         out $positions:array)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-2246.2" y="-9850.76">+CheckConditions(in $whereCols:array,in $parsedLine:array,</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-2246.2" y="-9834.76">                 in $restrictions:array,in $positions:array)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-2246.2" y="-9818.76">+UpdateLines(in $setCols:array,in $linesToUpdate:array,</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-2246.2" y="-9802.76">             in $restrictions:array,out $linesToUpdate:array)</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-3019.36,-10381.1 -3019.36,-10257.7 -2520.07,-10257.7 -2520.07,-10132.1 "/>
+    <polygon style="fill: #ffffff" points="-3011.36,-10381.1 -3019.36,-10397.1 -3027.36,-10381.1 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-3011.36,-10381.1 -3019.36,-10397.1 -3027.36,-10381.1 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-3019.36,-10381.1 -3019.36,-10228.1 -2009.35,-10228.1 -2009.35,-10072.8 "/>
+    <polygon style="fill: #ffffff" points="-3011.36,-10381.1 -3019.36,-10397.1 -3027.36,-10381.1 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-3011.36,-10381.1 -3019.36,-10397.1 -3027.36,-10381.1 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-2757.9" y="-8796.98" width="549" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-2757.9" y="-8796.98" width="549" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="-2483.4" y="-8777.98">FileQuery</text>
+    <rect style="fill: #ffffff" x="-2757.9" y="-8768.98" width="549" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-2757.9" y="-8768.98" width="549" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-2754.9" y="-8754.98">#options: array</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-2754.9" y="-8738.98">#query_result: QueryResult</text>
+    <rect style="fill: #ffffff" x="-2757.9" y="-8732.98" width="549" height="52"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-2757.9" y="-8732.98" width="549" height="52"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-2754.9" y="-8718.98">+Analyze(in $conditions:Condition,out $this-&gt;query_result:QueryResult)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-2754.9" y="-8702.98">+Clean(out $this-&gt;query_result:QueryResult)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-2754.9" y="-8686.98">+Build()</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-2407.9" y="-8629.8" width="502.8" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-2407.9" y="-8629.8" width="502.8" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="-2156.5" y="-8610.8">CsvQuery</text>
+    <rect style="fill: #ffffff" x="-2407.9" y="-8601.8" width="502.8" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-2407.9" y="-8601.8" width="502.8" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-2404.9" y="-8587.8">#$options: array</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-2404.9" y="-8571.8">#$query_result: QueryResult</text>
+    <rect style="fill: #ffffff" x="-2407.9" y="-8565.8" width="502.8" height="52"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-2407.9" y="-8565.8" width="502.8" height="52"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-2404.9" y="-8551.8">+Analyze(in $conditions:Condition,out $query_result:QueryResult)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-2404.9" y="-8535.8">+Clean(out $query_result:QueryResult)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-2404.9" y="-8519.8">+Build()</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="-3027.74,-9664.54 -3027.74,-9614.94 -2483.4,-9614.94 -2483.4,-8796.98 "/>
+    <polygon style="fill: #ffffff" points="-3019.74,-9664.54 -3027.74,-9680.54 -3035.74,-9664.54 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-3019.74,-9664.54 -3027.74,-9680.54 -3035.74,-9664.54 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="-3027.74,-9664.54 -3027.74,-9574.32 -2156.5,-9574.32 -2156.5,-8629.8 "/>
+    <polygon style="fill: #ffffff" points="-3019.74,-9664.54 -3027.74,-9680.54 -3035.74,-9664.54 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-3019.74,-9664.54 -3027.74,-9680.54 -3035.74,-9664.54 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="-4558.96,-11427.8 -4559,-11049.3 -2520.06,-11049.3 -2520.06,-10132.1 "/>
+    <polygon style="fill: #ffffff" points="-4550.96,-11427.8 -4558.95,-11443.8 -4566.96,-11427.8 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-4550.96,-11427.8 -4558.95,-11443.8 -4566.96,-11427.8 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="-4558.95,-11427.9 -4559,-11000.9 -2009.36,-11000.9 -2009.36,-10072.8 "/>
+    <polygon style="fill: #ffffff" points="-4550.95,-11427.9 -4558.95,-11443.9 -4566.95,-11427.9 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-4550.95,-11427.9 -4558.95,-11443.9 -4566.95,-11427.9 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-6321.66,-9684.93 -6321.66,-9772.43 -6340.08,-9772.43 -6340.08,-9871.1 "/>
+    <polygon style="fill: #ffffff" points="-6321.66,-9659.76 -6326.46,-9673.76 -6321.66,-9687.76 -6316.86,-9673.76 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-6321.66,-9659.76 -6326.46,-9673.76 -6321.66,-9687.76 -6316.86,-9673.76 "/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="-6330.87" y="-9776.43"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-6310.66" y="-9663.76"/>
+    <text font-size="12.7998" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-6336.08" y="-9859.1"/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="-6321.66,-9367.76 -6321.66,-8907 -5673.63,-8907 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-5686.27,-8902 -5670.27,-8907 -5686.27,-8912 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="-4391.33,-11544.1 -3695.92,-11544.1 -3695.92,-11411.5 "/>
+    <polygon style="fill: #ffffff" points="-4391.33,-11552.1 -4407.33,-11544.1 -4391.33,-11536.1 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-4391.33,-11552.1 -4407.33,-11544.1 -4391.33,-11536.1 "/>
+  </g>
+  <g>
+    <rect style="fill: #00ff00" x="-3959" y="-10494.3" width="525.9" height="44"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-3959" y="-10494.3" width="525.9" height="44"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="-3696.05" y="-10478.3">&lt;&lt;Factory&gt;&gt;</text>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="-3696.05" y="-10459.3">DataStorageFactory</text>
+    <rect style="fill: #00ff00" x="-3959" y="-10450.3" width="525.9" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-3959" y="-10450.3" width="525.9" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-3956" y="-10436.3">#dataConfig: Configuration</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-3956" y="-10420.3">#$analyzed: QueryResult</text>
+    <rect style="fill: #00ff00" x="-3959" y="-10414.3" width="525.9" height="100"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-3959" y="-10414.3" width="525.9" height="100"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:700" x="-3956" y="-10400.3">+Connect(out $connection:$resource)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-3956" y="-10384.3">+Production(in $config:Configuration,out $storageInstance:*Storage)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-3956" y="-10368.3">+__call(in $name:function name,in $args:function arguments,</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-3956" y="-10352.3">        out $result:array)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-3956" y="-10336.3">#GetConf(in $key:string,out $configurable:string)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-3956" y="-10320.3">+BuildDataQuery(in $conditions:array,out $result_query:string)</text>
+  </g>
+  <g>
+    <rect style="fill: #00ff00" x="-7514.6" y="-9151.04" width="402.7" height="44"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-7514.6" y="-9151.04" width="402.7" height="44"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="-7313.25" y="-9135.04">&lt;&lt;Factory&gt;&gt;</text>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="-7313.25" y="-9116.04">ViewFactory</text>
+    <rect style="fill: #00ff00" x="-7514.6" y="-9107.04" width="402.7" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-7514.6" y="-9107.04" width="402.7" height="8"/>
+    <rect style="fill: #00ff00" x="-7514.6" y="-9099.04" width="402.7" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-7514.6" y="-9099.04" width="402.7" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-7511.6" y="-9085.04">+Prdouction(in $actionField:string,out $view:*View)</text>
+  </g>
+  <g>
+    <rect style="fill: #00ff00" x="-8059.6" y="-9352.48" width="572.1" height="44"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-8059.6" y="-9352.48" width="572.1" height="44"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="-7773.55" y="-9336.48">&lt;&lt;Factory&gt;&gt;</text>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="-7773.55" y="-9317.48">ControllerFactory</text>
+    <rect style="fill: #00ff00" x="-8059.6" y="-9308.48" width="572.1" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-8059.6" y="-9308.48" width="572.1" height="8"/>
+    <rect style="fill: #00ff00" x="-8059.6" y="-9300.48" width="572.1" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-8059.6" y="-9300.48" width="572.1" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-8056.6" y="-9286.48">+Production(in $controllerField:string,out $controllerObject:*Controller)</text>
+  </g>
+  <g>
+    <rect style="fill: #00ff00" x="-7502.66" y="-8234.38" width="379.6" height="44"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-7502.66" y="-8234.38" width="379.6" height="44"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="-7312.86" y="-8218.38">&lt;&lt;Factory&gt;&gt;</text>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="-7312.86" y="-8199.38">TemplateFactory</text>
+    <rect style="fill: #00ff00" x="-7502.66" y="-8190.38" width="379.6" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-7502.66" y="-8190.38" width="379.6" height="8"/>
+    <rect style="fill: #00ff00" x="-7502.66" y="-8182.38" width="379.6" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-7502.66" y="-8182.38" width="379.6" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-7499.66" y="-8168.38">+Production(in $view:*View,out $template:string)</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-8162.6" y="-8932.54" width="348.8" height="44"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-8162.6" y="-8932.54" width="348.8" height="44"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="-7988.2" y="-8916.54">&lt;&lt;abstract&gt;&gt;</text>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:700" x="-7988.2" y="-8897.54">Controller</text>
+    <rect style="fill: #ffffff" x="-8162.6" y="-8888.54" width="348.8" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-8162.6" y="-8888.54" width="348.8" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-8159.6" y="-8874.54">#$view: *View</text>
+    <rect style="fill: #ffffff" x="-8162.6" y="-8868.54" width="348.8" height="132"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-8162.6" y="-8868.54" width="348.8" height="132"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-8159.6" y="-8854.54">+GetView(out $this-&gt;view:*View)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-8159.6" y="-8838.54">+SetView(in $view:*View)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-8159.6" y="-8822.54">+SimpleDataToView(in $variableName:string,</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-8159.6" y="-8806.54">                  in $value:number, string,</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-8159.6" y="-8790.54">                  $this:object)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-8159.6" y="-8774.54">+ArrayDataToView(in $variableName:string,</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-8159.6" y="-8758.54">                 in $array,out $this:object)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-8159.6" y="-8742.54">+ObjectDataToView(out $object:object)</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-7553.02" y="-8873.22" width="479.7" height="44"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-7553.02" y="-8873.22" width="479.7" height="44"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="-7313.17" y="-8857.22">&lt;&lt;abstract&gt;&gt;</text>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:700" x="-7313.17" y="-8838.22">View</text>
+    <rect style="fill: #ffffff" x="-7553.02" y="-8829.22" width="479.7" height="100"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-7553.02" y="-8829.22" width="479.7" height="100"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-7550.02" y="-8815.22">#$template: string</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-7550.02" y="-8799.22">#$encoding: string</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-7550.02" y="-8783.22">#$templateDir: string</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-7550.02" y="-8767.22">#simpleData: associative array</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-7550.02" y="-8751.22">#objectData: array</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-7550.02" y="-8735.22">#registredObjectDataTypes: array</text>
+    <rect style="fill: #ffffff" x="-7553.02" y="-8729.22" width="479.7" height="244"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-7553.02" y="-8729.22" width="479.7" height="244"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-7550.02" y="-8715.22">+GetTemplate(out $this-&gt;template:string)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-7550.02" y="-8699.22">+SetTemplate(in $template:string,out $this)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-7550.02" y="-8683.22">+GetTemplateDir(out $this-&gt;templateDir:string)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-7550.02" y="-8667.22">+SetTemplateDir(in $templateDir:string,out $this)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-7550.02" y="-8651.22">+GetXmlData(out $xml:string)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-7550.02" y="-8635.22">+GetHtmlFromXml(out $newXml:string)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-7550.02" y="-8619.22">+RenderHtml(out $this)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-7550.02" y="-8603.22">+AddXmlHeader(out $xml:string)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-7550.02" y="-8587.22">+AddSimpleData(in $variableName:string,in $variable:string,</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-7550.02" y="-8571.22">                number,out $this:object)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-7550.02" y="-8555.22">+AddArrayData(in $arrayName:string,in $array:array,</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-7550.02" y="-8539.22">              out $this:object)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-7550.02" y="-8523.22">+AddObjectData(in $object:object,out $this:object)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-7550.02" y="-8507.22">+RegisterObjectDataTypes(in $registredObjectDataTypes:object,</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-7550.02" y="-8491.22">                         out $this:object)</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-8561.32" y="-9345.14" width="341.1" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-8561.32" y="-9345.14" width="341.1" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="-8390.77" y="-9326.14">Router</text>
+    <rect style="fill: #ffffff" x="-8561.32" y="-9317.14" width="341.1" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-8561.32" y="-9317.14" width="341.1" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-8558.32" y="-9303.14">#instance</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="-8558.32" y1="-9297.54" x2="-8489.02" y2="-9297.54"/>
+    <rect style="fill: #ffffff" x="-8561.32" y="-9297.14" width="341.1" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-8561.32" y="-9297.14" width="341.1" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-8558.32" y="-9283.14">+Route(in $routeConfig:RouterConfiguration)</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="-8220.22,-9331.14 -8143.91,-9331.14 -8143.91,-9330.48 -8066.31,-9330.48 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-8078.95,-9325.48 -8062.95,-9330.48 -8078.95,-9335.48 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="-8220.22,-9277.14 -8217.98,-9277.14 -8217.98,-9241.46 -7665.35,-9241.46 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-7677.99,-9236.46 -7661.99,-9241.46 -7677.99,-9246.46 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="-8390.77,-9277.14 -8390.77,-9079.04 -7521.31,-9079.04 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-7533.95,-9074.04 -7517.95,-9079.04 -7533.95,-9084.04 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="-7313.25,-9079.04 -7313.25,-8980.13 -7313.17,-8980.13 -7313.17,-8879.93 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-7318.17,-8892.57 -7313.17,-8876.57 -7308.17,-8892.57 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="-7313.17,-8485.22 -7313.17,-8363.8 -7312.86,-8363.8 -7312.86,-8241.09 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-7317.86,-8253.73 -7312.86,-8237.73 -7307.86,-8253.73 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="-8390.77,-9345.14 -8390.77,-9428.98 -8390.08,-9428.98 -8390.08,-9514.11 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-8385.08,-9501.47 -8390.08,-9517.47 -8395.08,-9501.47 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="-7813.8,-8910.54 -7129.72,-8910.54 -7129.72,-9425.76 -6710.67,-9425.76 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-6723.31,-9420.76 -6707.31,-9425.76 -6723.31,-9430.76 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="-4726.56,-11544.1 -8395.94,-11544.1 -8395.94,-9926.56 "/>
+    <polygon style="fill: #ffffff" points="-4726.56,-11536.1 -4710.56,-11544.1 -4726.56,-11552.1 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-4726.56,-11536.1 -4710.56,-11544.1 -4726.56,-11552.1 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="-4726.56,-11470.1 -7843.48,-11470.1 -7843.48,-9716.82 -8154.08,-9716.82 "/>
+    <polygon style="fill: #ffffff" points="-4726.56,-11462.1 -4710.56,-11470.1 -4726.56,-11478.1 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-4726.56,-11462.1 -4710.56,-11470.1 -4726.56,-11478.1 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="-4559.32,-11429.8 -4559.32,-10555.2 -8220.22,-10555.2 -8220.22,-9345.14 "/>
+    <polygon style="fill: #ffffff" points="-4551.32,-11429.8 -4559.32,-11445.8 -4567.32,-11429.8 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-4551.32,-11429.8 -4559.32,-11445.8 -4567.32,-11429.8 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-8437.94" y="-9926.56" width="84" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-8437.94" y="-9926.56" width="84" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="-8395.94" y="-9907.56">Request</text>
+    <rect style="fill: #ffffff" x="-8437.94" y="-9898.56" width="84" height="68"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-8437.94" y="-9898.56" width="84" height="68"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-8434.94" y="-9884.56">#instance</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="-8434.94" y1="-9878.96" x2="-8365.64" y2="-9878.96"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-8434.94" y="-9868.56">+get</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-8434.94" y="-9852.56">+post</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-8434.94" y="-9836.56">+request</text>
+    <rect style="fill: #ffffff" x="-8437.94" y="-9830.56" width="84" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-8437.94" y="-9830.56" width="84" height="8"/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="-7773.56,-9280.48 -7773.56,-9174.46 -7988.2,-9174.46 -7988.2,-8939.25 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-7993.2,-8951.89 -7988.2,-8935.89 -7983.2,-8951.89 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-8626.08" y="-9716.82" width="472" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-8626.08" y="-9716.82" width="472" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="-8390.08" y="-9697.82">RouteConfiguration</text>
+    <rect style="fill: #ffffff" x="-8626.08" y="-9688.82" width="472" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-8626.08" y="-9688.82" width="472" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-8623.08" y="-9674.82">#instance</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="-8623.08" y1="-9669.22" x2="-8553.78" y2="-9669.22"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-8623.08" y="-9658.82">#routingConfig: array</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="-8623.08" y1="-9653.22" x2="-8461.38" y2="-9653.22"/>
+    <rect style="fill: #ffffff" x="-8626.08" y="-9652.82" width="472" height="132"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-8626.08" y="-9652.82" width="472" height="132"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-8623.08" y="-9638.82">+GetControllerField(out $routingConfig['controller']:string)</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="-8623.08" y1="-9637.22" x2="-8161.08" y2="-9637.22"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-8623.08" y="-9622.82">+SetControllerField(in $requestField:string,</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="-8623.08" y1="-9621.22" x2="-8284.28" y2="-9621.22"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-8623.08" y="-9606.82">                    out $this)</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="-8469.08" y1="-9605.22" x2="-8392.08" y2="-9605.22"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-8623.08" y="-9590.82">+SetActionField(in $requestField:string)</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="-8623.08" y1="-9589.22" x2="-8315.08" y2="-9589.22"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-8623.08" y="-9574.82">+GetActionField(out $routeConfig['action']:string)</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="-8623.08" y1="-9573.22" x2="-8238.08" y2="-9573.22"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-8623.08" y="-9558.82">+SetParamField(in $paramName:string,in $requestField:string,</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="-8623.08" y1="-9557.22" x2="-8161.08" y2="-9557.22"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-8623.08" y="-9542.82">               out $this)</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="-8507.58" y1="-9541.22" x2="-8430.58" y2="-9541.22"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-8623.08" y="-9526.82">+GetParams(out $routingConfig['param']:array)</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="-8623.08" y1="-9525.22" x2="-8276.58" y2="-9525.22"/>
+  </g>
+  <g>
+    <rect style="fill: #00ff00" x="-7658.64" y="-9263.46" width="425.8" height="44"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-7658.64" y="-9263.46" width="425.8" height="44"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="-7445.74" y="-9247.46">&lt;&lt;Factory&gt;&gt;</text>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="-7445.74" y="-9228.46">ActionFactory</text>
+    <rect style="fill: #00ff00" x="-7658.64" y="-9219.46" width="425.8" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-7658.64" y="-9219.46" width="425.8" height="8"/>
+    <rect style="fill: #00ff00" x="-7658.64" y="-9211.46" width="425.8" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-7658.64" y="-9211.46" width="425.8" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-7655.64" y="-9197.46">+Production(in $actionField:string,out $action:string)</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="-7812.79,-8834.54 -7686.91,-8834.54 -7686.91,-8803.22 -7559.73,-8803.22 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-7572.37,-8798.22 -7556.37,-8803.22 -7572.37,-8808.22 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-6360.92" y="-8145.92" width="425.8" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-6360.92" y="-8145.92" width="425.8" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="-6148.02" y="-8126.92">OrmCollectionDataConverter</text>
+    <rect style="fill: #ffffff" x="-6360.92" y="-8117.92" width="425.8" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-6360.92" y="-8117.92" width="425.8" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-6357.92" y="-8103.92">#$xmlObjectProperties: array</text>
+    <rect style="fill: #ffffff" x="-6360.92" y="-8097.92" width="425.8" height="68"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-6360.92" y="-8097.92" width="425.8" height="68"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-6357.92" y="-8083.92">+SetObjectXmlProperties(in $selectionProperties:array,</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-6357.92" y="-8067.92">                        out $this)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-6357.92" y="-8051.92">+ConvertToXml(in $ormCollection:OrmCollection,</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-6357.92" y="-8035.92">              out $xml:string)</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="-7073.32,-8687.22 -7073.32,-8725.9 -6315.7,-8725.9 -6315.7,-8383.51 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-6320.7,-8396.15 -6315.7,-8380.15 -6310.7,-8396.15 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="-3583.12,-11321.3 -3583.12,-10519.5 -7445.74,-10519.5 -7445.74,-9263.46 "/>
+    <polygon style="fill: #ffffff" points="-3575.12,-11321.3 -3583.12,-11337.3 -3591.12,-11321.3 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-3575.12,-11321.3 -3583.12,-11337.3 -3591.12,-11321.3 "/>
+  </g>
+  <g>
+    <rect style="fill: #00ff00" x="-6449.76" y="-8376.8" width="268.15" height="44"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-6449.76" y="-8376.8" width="268.15" height="44"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="-6315.68" y="-8360.8">&lt;&lt;factory&gt;&gt;</text>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="-6315.68" y="-8341.8">ObjectDataConverterFactory</text>
+    <rect style="fill: #00ff00" x="-6449.76" y="-8332.8" width="268.15" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-6449.76" y="-8332.8" width="268.15" height="8"/>
+    <rect style="fill: #00ff00" x="-6449.76" y="-8324.8" width="268.15" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-6449.76" y="-8324.8" width="268.15" height="8"/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="-6315.68,-8315.79 -6315.68,-8234.86 -6148.02,-8234.86 -6148.02,-8152.63 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-6153.02,-8165.27 -6148.02,-8149.27 -6143.02,-8165.27 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-6647.04" y="-8152.32" width="191.25" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-6647.04" y="-8152.32" width="191.25" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="-6551.41" y="-8133.32">ArrayDataConverter</text>
+    <rect style="fill: #ffffff" x="-6647.04" y="-8124.32" width="191.25" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-6647.04" y="-8124.32" width="191.25" height="8"/>
+    <rect style="fill: #ffffff" x="-6647.04" y="-8116.32" width="191.25" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-6647.04" y="-8116.32" width="191.25" height="8"/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke-dasharray: 8; stroke: #000000" points="-6315.68,-8316.8 -6315.68,-8238.56 -6551.41,-8238.56 -6551.41,-8159.03 "/>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-6556.41,-8171.67 -6551.41,-8155.67 -6546.41,-8171.67 "/>
+  </g>
+  <text font-size="112.889" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-1483.12" y="-10903.6">
+    <tspan x="-1483.12" y="-10903.6">Storage Sub System</tspan>
+  </text>
+  <text font-size="112.889" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-5733.2" y="-9162.6">
+    <tspan x="-5733.2" y="-9162.6">Storage </tspan>
+    <tspan x="-5733.2" y="-9021.49">Helpers</tspan>
+  </text>
+  <text font-size="84.6667" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-6714.94" y="-10153.7">
+    <tspan x="-6714.94" y="-10153.7">ORM Sub System</tspan>
+  </text>
+  <text font-size="112.889" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-7871.9" y="-10253.1">
+    <tspan x="-7871.9" y="-10253.1">MVC Sub System</tspan>
+  </text>
+  <g>
+    <rect style="fill: #ffa500" x="-3808.72" y="-11411.5" width="225.6" height="44"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-3808.72" y="-11411.5" width="225.6" height="44"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="-3695.92" y="-11395.5">&lt;&lt;interface&gt;&gt;</text>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="-3695.92" y="-11376.5">FactoryInterface</text>
+    <rect style="fill: #ffa500" x="-3808.72" y="-11367.5" width="225.6" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-3808.72" y="-11367.5" width="225.6" height="8"/>
+    <rect style="fill: #ffa500" x="-3808.72" y="-11359.5" width="225.6" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-3808.72" y="-11359.5" width="225.6" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-3805.72" y="-11345.5">+Production(in $param:mixed)</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-8211.48" y="-7071.16" width="441.2" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-8211.48" y="-7071.16" width="441.2" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:700" x="-7990.88" y="-7052.16">Filter</text>
+    <rect style="fill: #ffffff" x="-8211.48" y="-7043.16" width="441.2" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-8211.48" y="-7043.16" width="441.2" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-8208.48" y="-7029.16">#$filter: Filter</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-8208.48" y="-7013.16">#$args: array</text>
+    <rect style="fill: #ffffff" x="-8211.48" y="-7007.16" width="441.2" height="52"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-8211.48" y="-7007.16" width="441.2" height="52"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-8208.48" y="-6993.16">+__construct(in $filter:Filter=null,in $args:array=null)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-8208.48" y="-6977.16">+Filter(inout $filtered:mixed)</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:700" x="-8208.48" y="-6961.16">+CustomFilter(inout $filtered:mixed)</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-7944.56" y="-6889.08" width="241" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-7944.56" y="-6889.08" width="241" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:700" x="-7824.06" y="-6870.08">StringFilter</text>
+    <rect style="fill: #ffffff" x="-7944.56" y="-6861.08" width="241" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-7944.56" y="-6861.08" width="241" height="8"/>
+    <rect style="fill: #ffffff" x="-7944.56" y="-6853.08" width="241" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-7944.56" y="-6853.08" width="241" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-7941.56" y="-6839.08">+Filter(inout $filtered:mixed)</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-7722.24" y="-6759.66" width="248.7" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-7722.24" y="-6759.66" width="248.7" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:700" x="-7597.89" y="-6740.66">PairtagStringFilter</text>
+    <rect style="fill: #ffffff" x="-7722.24" y="-6731.66" width="248.7" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-7722.24" y="-6731.66" width="248.7" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-7719.24" y="-6717.66">#$pairTags: array</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-7719.24" y="-6701.66">#$tagsToStrip: array</text>
+    <rect style="fill: #ffffff" x="-7722.24" y="-6695.66" width="248.7" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-7722.24" y="-6695.66" width="248.7" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-7719.24" y="-6681.66">+Filter(inout $filtered:string)</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-7712.84" y="-6546.68" width="294.9" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-7712.84" y="-6546.68" width="294.9" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="-7565.39" y="-6527.68">StripPairtagsStringFilter</text>
+    <rect style="fill: #ffffff" x="-7712.84" y="-6518.68" width="294.9" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-7712.84" y="-6518.68" width="294.9" height="8"/>
+    <rect style="fill: #ffffff" x="-7712.84" y="-6510.68" width="294.9" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-7712.84" y="-6510.68" width="294.9" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-7709.84" y="-6496.68">+CustomFilter(inout $filtered:string)</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-8371.46" y="-6756.48" width="294.9" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-8371.46" y="-6756.48" width="294.9" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="-8224.01" y="-6737.48">EscapeStringFilter</text>
+    <rect style="fill: #ffffff" x="-8371.46" y="-6728.48" width="294.9" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-8371.46" y="-6728.48" width="294.9" height="8"/>
+    <rect style="fill: #ffffff" x="-8371.46" y="-6720.48" width="294.9" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-8371.46" y="-6720.48" width="294.9" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-8368.46" y="-6706.48">+CustomFilter(inout $filtered:string)</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-8039.7" y="-6755.9" width="294.9" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-8039.7" y="-6755.9" width="294.9" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="-7892.25" y="-6736.9">HtmlencodeStringFilter</text>
+    <rect style="fill: #ffffff" x="-8039.7" y="-6727.9" width="294.9" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-8039.7" y="-6727.9" width="294.9" height="8"/>
+    <rect style="fill: #ffffff" x="-8039.7" y="-6719.9" width="294.9" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-8039.7" y="-6719.9" width="294.9" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-8036.7" y="-6705.9">+CustomFilter(inout $filtered:string)</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-7990.88,-6936.92 -7990.88,-6914.12 -7824.06,-6914.12 -7824.06,-6889.08 "/>
+    <polygon style="fill: #ffffff" points="-7982.88,-6936.92 -7990.88,-6952.92 -7998.88,-6936.92 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-7982.88,-6936.92 -7990.88,-6952.92 -7998.88,-6936.92 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-7824.06,-6814.84 -7824.06,-6786.49 -7892.25,-6786.49 -7892.25,-6755.9 "/>
+    <polygon style="fill: #ffffff" points="-7816.06,-6814.84 -7824.06,-6830.84 -7832.06,-6814.84 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-7816.06,-6814.84 -7824.06,-6830.84 -7832.06,-6814.84 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-7944.56,-6814.84 -7944.56,-6786.78 -8224.01,-6786.78 -8224.01,-6756.48 "/>
+    <polygon style="fill: #ffffff" points="-7936.56,-6814.84 -7944.56,-6830.84 -7952.56,-6814.84 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-7936.56,-6814.84 -7944.56,-6830.84 -7952.56,-6814.84 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-7697.84,-6812.78 -7697.84,-6787.34 -7597.89,-6787.34 -7597.89,-6759.66 "/>
+    <polygon style="fill: #ffffff" points="-7689.84,-6812.78 -7697.84,-6828.78 -7705.84,-6812.78 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-7689.84,-6812.78 -7697.84,-6828.78 -7705.84,-6812.78 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-7597.89,-6657.42 -7597.89,-6603.17 -7565.39,-6603.17 -7565.39,-6546.68 "/>
+    <polygon style="fill: #ffffff" points="-7589.89,-6657.42 -7597.89,-6673.42 -7605.89,-6657.42 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-7589.89,-6657.42 -7597.89,-6673.42 -7605.89,-6657.42 "/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-7300.96" y="-6755.34" width="248.7" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-7300.96" y="-6755.34" width="248.7" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:italic;font-weight:700" x="-7176.61" y="-6736.34">UnpairStringFilter</text>
+    <rect style="fill: #ffffff" x="-7300.96" y="-6727.34" width="248.7" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-7300.96" y="-6727.34" width="248.7" height="36"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-7297.96" y="-6713.34">#$unpairTags: array</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-7297.96" y="-6697.34">#$tagsToStrip: array</text>
+    <rect style="fill: #ffffff" x="-7300.96" y="-6691.34" width="248.7" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-7300.96" y="-6691.34" width="248.7" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="-7297.96" y="-6677.34">+Filter(inout $filtered:string)</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="-7300.48" y="-6543.8" width="294.9" height="28"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-7300.48" y="-6543.8" width="294.9" height="28"/>
+    <text font-size="16" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="-7153.03" y="-6524.8">StripUnpairtagsStringFilter</text>
+    <rect style="fill: #ffffff" x="-7300.48" y="-6515.8" width="294.9" height="8"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-7300.48" y="-6515.8" width="294.9" height="8"/>
+    <rect style="fill: #ffffff" x="-7300.48" y="-6507.8" width="294.9" height="20"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="-7300.48" y="-6507.8" width="294.9" height="20"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:italic;font-weight:normal" x="-7297.48" y="-6493.8">+CustomFilter(inout $filtered:string)</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-7685.32,-6875.08 -7176.61,-6875.08 -7176.61,-6755.34 "/>
+    <polygon style="fill: #ffffff" points="-7685.32,-6883.08 -7701.32,-6875.08 -7685.32,-6867.08 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-7685.32,-6883.08 -7701.32,-6875.08 -7685.32,-6867.08 "/>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-7176.61,-6652.1 -7176.61,-6599.07 -7153.03,-6599.07 -7153.03,-6543.8 "/>
+    <polygon style="fill: #ffffff" points="-7168.61,-6652.1 -7176.61,-6668.1 -7184.61,-6652.1 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="-7168.61,-6652.1 -7176.61,-6668.1 -7184.61,-6652.1 "/>
+  </g>
+</svg>
