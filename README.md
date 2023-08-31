@@ -1,3 +1,3 @@
 # LabSystem
 
-Design framework for one of my first projects, Laboratory Reporting and Management System
+Design of framework for one of my first projects, Laboratory Reporting and Management System
